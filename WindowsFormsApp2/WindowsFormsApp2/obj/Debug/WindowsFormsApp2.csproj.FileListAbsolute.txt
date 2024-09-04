@@ -1,0 +1,6 @@
+C:\Users\cansu\OneDrive\Masaüstü\c++\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\cansu\OneDrive\Masaüstü\c++\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\cansu\OneDrive\Masaüstü\c++\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\desdeneme.Form1.resources
+C:\Users\cansu\OneDrive\Masaüstü\c++\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\cansu\OneDrive\Masaüstü\c++\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\cansu\OneDrive\Masaüstü\c++\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache

@@ -1,0 +1,6 @@
+C:\Users\cansu\OneDrive\Masaüstü\c++\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+C:\Users\cansu\OneDrive\Masaüstü\c++\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.SuggestedBindingRedirects.cache
+C:\Users\cansu\OneDrive\Masaüstü\c++\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\Form1.resources
+C:\Users\cansu\OneDrive\Masaüstü\c++\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\cansu\OneDrive\Masaüstü\c++\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\cansu\OneDrive\Masaüstü\c++\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
