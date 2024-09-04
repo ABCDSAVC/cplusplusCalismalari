@@ -1,0 +1,8 @@
+C:\Users\cansu\OneDrive\Masaüstü\c++\metinekleme\metinekleme\bin\Debug\metinekleme.exe.config
+C:\Users\cansu\OneDrive\Masaüstü\c++\metinekleme\metinekleme\bin\Debug\metinekleme.exe
+C:\Users\cansu\OneDrive\Masaüstü\c++\metinekleme\metinekleme\bin\Debug\metinekleme.pdb
+C:\Users\cansu\OneDrive\Masaüstü\c++\metinekleme\metinekleme\obj\Debug\metinekleme.csproj.AssemblyReference.cache
+C:\Users\cansu\OneDrive\Masaüstü\c++\metinekleme\metinekleme\obj\Debug\metinekleme.csproj.SuggestedBindingRedirects.cache
+C:\Users\cansu\OneDrive\Masaüstü\c++\metinekleme\metinekleme\obj\Debug\metinekleme.csproj.CoreCompileInputs.cache
+C:\Users\cansu\OneDrive\Masaüstü\c++\metinekleme\metinekleme\obj\Debug\metinekleme.exe
+C:\Users\cansu\OneDrive\Masaüstü\c++\metinekleme\metinekleme\obj\Debug\metinekleme.pdb

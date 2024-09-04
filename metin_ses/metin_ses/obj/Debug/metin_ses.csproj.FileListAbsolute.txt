@@ -1,0 +1,8 @@
+C:\Users\cansu\OneDrive\Masaüstü\c++\metin_ses\metin_ses\bin\Debug\metin_ses.exe.config
+C:\Users\cansu\OneDrive\Masaüstü\c++\metin_ses\metin_ses\bin\Debug\metin_ses.exe
+C:\Users\cansu\OneDrive\Masaüstü\c++\metin_ses\metin_ses\bin\Debug\metin_ses.pdb
+C:\Users\cansu\OneDrive\Masaüstü\c++\metin_ses\metin_ses\obj\Debug\metin_ses.csproj.AssemblyReference.cache
+C:\Users\cansu\OneDrive\Masaüstü\c++\metin_ses\metin_ses\obj\Debug\metin_ses.csproj.SuggestedBindingRedirects.cache
+C:\Users\cansu\OneDrive\Masaüstü\c++\metin_ses\metin_ses\obj\Debug\metin_ses.csproj.CoreCompileInputs.cache
+C:\Users\cansu\OneDrive\Masaüstü\c++\metin_ses\metin_ses\obj\Debug\metin_ses.exe
+C:\Users\cansu\OneDrive\Masaüstü\c++\metin_ses\metin_ses\obj\Debug\metin_ses.pdb
